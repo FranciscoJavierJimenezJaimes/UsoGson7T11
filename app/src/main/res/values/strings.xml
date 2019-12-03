@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UsoGson7T11</string>
+    <string name="ingn">Ingrese su nombre</string>
+    <string name="inge">Ingrese su edad</string>
+    <string name="ingc">Ingrese su correo</string>
+    <string name="ingcu">Ingrese su curp</string>
+    <string name="btntrs">CARGAR</string>
+
+</resources>
